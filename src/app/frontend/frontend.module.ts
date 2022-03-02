@@ -10,6 +10,7 @@ import { PricingComponent } from './pricing/pricing.component';
 import { ContactusComponent } from './contactus/contactus.component';
 
 
+
 @NgModule({
   declarations: [
     HomeComponent,
@@ -17,7 +18,8 @@ import { ContactusComponent } from './contactus/contactus.component';
     ProductComponent,
     QualityComponent,
     PricingComponent,
-    ContactusComponent
+    ContactusComponent,
+ 
   ],
   imports: [
     CommonModule,

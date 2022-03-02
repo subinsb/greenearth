@@ -1,0 +1,94 @@
+.box{
+    background: white;
+    border: 1px solid #E3E3E3;
+    padding: 10px;
+}
+
+.bg-grey{
+    background: #F6F6F6;
+}
+
+.box-text h4{
+    padding-top: 15px;
+    text-align: left;
+}
+
+.box-text p{
+   padding-bottom:15px;
+    text-align: left;
+}
+
+.dark-text{
+   color: #60697b;
+}
+
+.copy-bg{
+    background: #EFEEDC;
+}
+
+.copy-links{
+    display: inline-flex;
+    list-style: none;
+    float: right;
+}
+
+
+.copy-links li{
+    margin-right: 27px;
+}
+
+.copy{
+    font-size: 14px;
+    background: #EFEEDC;
+}
+
+.image-wrapper-custom{
+background-image: url("../../assets/img/banner/android-chrome-192x192.png");
+}
+
+.time-table-banner {
+    position: relative;
+    height: 400px;
+}
+
+.bg-f {
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #ddd;
+}
+
+.viewlink-box{
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 20px;
+}
+
+.inner-product-one{
+    color: #218d1e;
+    padding-bottom: 10px; 
+}
+
+.vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+
+  .detals-hide{
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+  }
+/* 
+  .detals-hide:hover{
+    overflow: visible;
+    display: block;
+  } */
+
+  ul{
+    padding-left: 20px;
+  }
